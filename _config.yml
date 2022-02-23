@@ -1,18 +1,10 @@
 #######
-#
-# bootstrap-template
-# basic bootstrap template for Jekyll with GitHub Pages
-# https://github.com/thecdil/bootstrap-template
-#
-#######
-
-#######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: Policy Models Tutorial
+description: "a tutorial for policy models web component"
+year: 2022
+author: shelly talis 
 # add search box to navbar, true/false
 search: true
 
@@ -29,7 +21,7 @@ url:
 # baseurl is your github repository's name prefixed with a /
 baseurl:
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/shellytalis/policy-models-docs
 
 ##########
 # GOOGLE ANALYTICS [optional!]
